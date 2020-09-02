@@ -1,5 +1,5 @@
 ## Stock Management System v1.0 - Cross-Site Scripting Credential Harvester (Login-Portal)
-##### Exploit Author: Bobby Cooke (boku)
+##### Exploit Author: Bobby Cooke (boku) & Adeeb Shah (@hyd3sec)
 ![](credHarvesterProof.png)
 ##### Vulnerability Statistics
 + OWASP Top Ten 2017: A7:2017-Cross-Site Scripting (XSS)
