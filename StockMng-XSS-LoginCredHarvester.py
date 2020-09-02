@@ -1,5 +1,5 @@
 # Exploit Title: Stock Management System v1.0 - Cross-Site Scripting Credential Harvester (Login-Portal)
-# Exploit Author: Bobby Cooke
+# Exploit Author: Bobby Cooke & Adeeb Shah
 # Date: 2020-08-01
 # Vendor Homepage: https://www.sourcecodester.com/php/14366/stock-management-system-php.html
 # Software Link: https://www.sourcecodester.com/sites/default/files/download/Warren%20Daloyan/stock.zip
